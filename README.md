@@ -4,7 +4,7 @@ Pumpfun sniper with grpc integrated with pumpfun amm. The updated version uses g
 
 ## Contact
 
-- If u have interest or help, contact here telegram: [Telegram](https://t.me/shiny0103)
+- If u have interest or help, contact here telegram: [Telegram](https://t.me/mylord1_1)
 
 ## New updated version 
 
@@ -44,8 +44,8 @@ https://solscan.io/tx/5QDYSiST7KX9viNZXSeSATZYMJ5ioJrHJxqu9DVwFzREMarwwmaDXz7EYS
 
 To run Pump.fun bot, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/0xTan1319/Pumpfun-Sniper-Bot`
-2. Navigate to the project directory: `cd Pumpfun-Sniper-Bot`
+1. Clone the repository: `git clone https://github.com/michalstefanow/pumpfun-sniper-bot`
+2. Navigate to the project directory: `cd pumpfun-sniper-bot`
 3. Install the dependencies: `npm i`
 4. Fill in `.env` (if you have no RPC, Quicknode is pretty good & free)
 5. Build the application: `npm run build`
